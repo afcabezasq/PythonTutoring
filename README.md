@@ -10,3 +10,9 @@ py -m venv <name of environment>
 ```python
 pip install jupyterlab
 ```
+
+
+## Web Scraping
+```
+pip3 install beautifulsoup4
+```
